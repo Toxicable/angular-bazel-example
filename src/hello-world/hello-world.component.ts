@@ -1,6 +1,7 @@
 import {Component, NgModule} from '@angular/core';
 import {msg} from '../lib/file';
 // some comment
+// another comment
 @Component({
   selector: 'hello-world-app',
   template: `
