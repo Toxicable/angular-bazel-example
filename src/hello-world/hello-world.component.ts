@@ -7,33 +7,6 @@ import {msg} from '../lib/file';
     <div>Hello {{ name }}</div>
     <input type="text" [value]="name" (input)="name = $event.target.value"/>
     hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
-    hhheellllooo
   `,
   styleUrls: ['./hello-world-styles.css']
 })
