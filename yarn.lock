@@ -12,7 +12,7 @@
   version "6.0.0-beta.1-a1cc02f"
   resolved "https://codeload.github.com/angular/bazel-builds/tar.gz/d09df98b39658463fdfe3567b25a20cdd7130661"
   dependencies:
-    "@types/node" "6.0.84"
+    "@types/node" "6.0 .84"
 
 "@angular/common@5.2.4":
   version "5.2.4"
